@@ -21,7 +21,8 @@
             <h1 class="heading center">Harōwārudo</h1>
             <h2 class="heading center">ハローワールド</h2>
             <h2 class="heading center">Hello World</h2>
-            <p>dkfsdlf</p>
+            
+            <p>lsdjfsldjf</p>
         </div>
         <div class="footer center">Fu Manchu by 
             <a href="http://thenounproject.com/Simon%20Child/" target="_blank">Simon Child</a> from 
